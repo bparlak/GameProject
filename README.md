@@ -6,8 +6,10 @@ https://www.allegro.cc/files/?v=4.2  (direct link http://cdn.allegro.cc/file/lib
 
 After download Allegro library, extract the file and you will see 3 folder namely bin,include,lib
 You need the copy these folders to 2 different places.
+
 1-)Copy bin and include folders to VC folder that is located C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC,
 and copy lib folder to Microsoft Visual Studio 14.0 folder(go back 1 folder from VC).
+
 2-)There are 3 dll files in bin folder, if your system is x64, copy these dll files to C:\Windows\SysWOW64 or
 if your system is x86, copy dll files to C:\Windows\system32.
 
